@@ -1,0 +1,9 @@
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.pdb
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Main.resources
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image_Processing.Properties.Resources.resources
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.GenerateResource.cache
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.exe
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.pdb
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\bin\Debug\Image Processing.exe.config
+C:\Users\Ahmed Hamada\source\repos\Image Processing\Image Processing\obj\Debug\Image Processing.csproj.CopyComplete
